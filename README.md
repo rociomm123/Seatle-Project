@@ -20,18 +20,21 @@ For this project, I was interestested in using Seatle Airbnb data to better unde
 3. Price Prediction
 4. Reviews Prediction
 
-The full set of files related to this course are owned by Kaggle, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
-
+The full set of files related to this course are owned by Kaggle, so they are not publicly available here.  
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+This dataset is part of Airbnb Inside, and the data source can be found here. (https://www.kaggle.com/airbnb/seattle/data)
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict price.
+There are 3 subsets in the dataset:
+
+calendar.csv contains the pricing for each listing id by dates.
+listings.csv provides a detailed description of each listing id, such as host and review scores.
+reviews.csv gives detailed reviews per listing id.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@rociomm/airbnb-seattle-performance-45bc180e88a2).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
